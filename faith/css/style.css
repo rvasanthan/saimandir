@@ -3515,7 +3515,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget ul li a:hover {
-  color: #e65400;
+  color: yellow;
 }
 
 .single-footer-widget .instafeed {
@@ -3601,7 +3601,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-bottom .footer-text a {
-  color: #00c8e6;
+  color: yellow;
 }
 
 .footer-bottom .footer-social {
@@ -3619,7 +3619,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer-bottom .footer-social a:hover {
-  color: #00c8e6;
+  color: yellow;
 }
 
 /*---------------------------------------------------- */
