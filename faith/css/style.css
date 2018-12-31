@@ -106,7 +106,7 @@ button:focus {
 }
 
 .section_gap {
-  padding: 120px 0px;
+  padding: 30px 0px;
 }
 
 .section_title {
@@ -393,7 +393,7 @@ button:focus {
 /*=========== event_date_area css ==========*/
 .event_date_area {
   background: #e65400;
-  padding: 100px 0px;
+  padding: 30px 0px;
 }
 
 .flex {
@@ -477,9 +477,10 @@ h3 {
 }
 
 .features_item {
-  padding: 73px 45px 80px 60px;
+  padding: 20px 45px 30px 60px;
   color: #fff;
-  background: #00c8e6;
+  background: #e65400;
+  
 }
 
 .features_item + .features_item {
@@ -487,7 +488,7 @@ h3 {
 }
 
 .features_item:nth-child(even) {
-  background: #04091e;
+  background: #eb9f73;
 }
 
 .features_item h3 {
@@ -528,7 +529,7 @@ h3 {
 }
 
 .sermons_slider .owl-dots .owl-dot.active {
-  background: #00c8e6;
+  background: #e65400;
 }
 
 .sermons_category {
@@ -546,7 +547,7 @@ h3 {
 }
 
 .sermons_category li a {
-  color: #00c8e6;
+  color: #e65400;
 }
 
 .sermons_category li i {
@@ -632,7 +633,7 @@ h3 {
   line-height: 30px;
   color: #222222;
   font-weight: 600;
-  padding-top: 20px;
+  padding-top: 10px;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -640,6 +641,10 @@ h3 {
 
 .event_title:hover {
   color: #00c8e6;
+}
+
+.event_post {
+  box-shadow: 4px 4px 4px lightgrey;
 }
 
 .event_post img {
@@ -699,7 +704,7 @@ h3 {
 /*----------------------------------------------------*/
 /*============ banner_area css =============*/
 .banner_area {
-  min-height: 680px;
+  min-height: 800px;
   background: -webkit-gradient(linear, left top, right top, from(rgba(4, 9, 30, 0.8)), to(rgba(4, 9, 30, 0.8))), url("../image/sai-6.jpg");
   background: -webkit-linear-gradient(left, rgba(4, 9, 30, 0.8), rgba(4, 9, 30, 0.8)), url("../image/sai-6.jpg");
   background: -o-linear-gradient(left, rgba(4, 9, 30, 0.8), rgba(4, 9, 30, 0.8)), url("../image/sai-6.jpg");
