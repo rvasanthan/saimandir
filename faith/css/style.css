@@ -305,7 +305,7 @@ button:focus {
 
 .header_area .navbar .nav .nav-item.submenu ul .nav-item:hover .nav-link {
   background: #f9f9ff;
-  color: #00c8e6;
+  color: #e65400;
 }
 
 @media (min-width: 992px) {
@@ -640,7 +640,7 @@ h3 {
 }
 
 .event_title:hover {
-  color: #00c8e6;
+  color: #e65400;
 }
 
 .event_post {
@@ -3495,8 +3495,9 @@ h1, h2, h3, h4, h5, h6 {
 /*----------------------------------------------------*/
 /*============== footer-area css ===============*/
 .footer-area {
-  background: #04091e;
-  padding: 142px 0px;
+  background: #e65400;
+  padding: 70px 0px;
+  color: white;
 }
 
 .single-footer-widget p {
@@ -3506,7 +3507,7 @@ h1, h2, h3, h4, h5, h6 {
 .single-footer-widget ul li a {
   line-height: 25px;
   display: inline-block;
-  color: #777;
+  color: white;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
@@ -3514,7 +3515,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget ul li a:hover {
-  color: #00c8e6;
+  color: #e65400;
 }
 
 .single-footer-widget .instafeed {
@@ -3542,7 +3543,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-right: 40px;
   height: 40px;
   color: #999999;
-  background: transparent;
+  background: white;
   padding-left: 20px;
 }
 
@@ -3567,7 +3568,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .single-footer-widget .sub-btn {
-  background: #00c8e6;
+  background: black;
   color: #fff;
   font-weight: 300;
   border-radius: 0;
@@ -3591,7 +3592,7 @@ h1, h2, h3, h4, h5, h6 {
 .border_line {
   width: 100%;
   height: 1px;
-  background: #333333;
+  background: white;
   margin-top: 30px;
 }
 
@@ -3610,7 +3611,7 @@ h1, h2, h3, h4, h5, h6 {
 .footer-bottom .footer-social a {
   font-size: 18px;
   line-height: 30px;
-  color: #82848f;
+  color: white;
   margin-left: 25px;
   -webkit-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
